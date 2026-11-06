@@ -1,0 +1,25 @@
+{
+  "type": "java",
+  "testFiles": [
+    {
+      "path": "src/test/java/PalindromeTest.java",
+      "testCases": [
+        {
+          "methodName": "palindromeTest1",
+          "label": "Validates palindrome behavior",
+          "description": "Verifies palindrome logic for palindromeTest1."
+        },
+        {
+          "methodName": "palindromeTest2",
+          "label": "Validates palindrome behavior",
+          "description": "Verifies palindrome logic for palindromeTest2."
+        },
+        {
+          "methodName": "palindromeTest3",
+          "label": "Validates palindrome behavior",
+          "description": "Verifies palindrome logic for palindromeTest3."
+        }
+      ]
+    }
+  ]
+}
